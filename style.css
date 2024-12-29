@@ -1,0 +1,25 @@
+body{font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 2em;
+background-color: black;}
+
+h1{text-align:center; color:red}
+#btncontainer{
+text-align:center;}
+
+#reading{
+display:block;
+font-size: 4em; 
+text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+color: white;}
+
+.buttons{
+    padding: 10px 20px;
+    color:white;
+    background-color:blue;
+    transition: background-color 0.25s;
+}
+
+.buttons:hover{
+    background-color:darkblue;
+}
